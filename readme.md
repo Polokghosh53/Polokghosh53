@@ -5,6 +5,7 @@
 Hey, I'm Polok! 
 
 I'm currently a student who has a passion for coding and tech 😁
+
 Python Developer | AI ML Enthusiast 🤖| Competitive Coder 🖥⌨ Fork, Star and Enjoy 🌟
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
