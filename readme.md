@@ -2,6 +2,8 @@
 
 <br />
 
+Hey, I'm Polok! 
+
 I'm currently a student who has a passion for coding and tech 😁
 Python Developer | AI ML Enthusiast 🤖| Competitive Coder 🖥⌨ Fork, Star and Enjoy 🌟
 
