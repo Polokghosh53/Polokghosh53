@@ -32,6 +32,7 @@ Python Developer | AI ML Enthusiast 🤖| Competitive Coder 🖥⌨ Fork, Star a
 
 <img src="https://github-readme-stats.vercel.app/api?username=Polokghosh53&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Polokghosh53&theme=onedark)](https://github.com/Polokghosh53/github-profile-trophy)
 
 
 [twitter]: https://twitter.com/stompingdrake
