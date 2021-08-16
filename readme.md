@@ -6,7 +6,7 @@ Hey, I'm Polok!
 
 I'm currently a student who has a passion for coding and tech 😁
 
-Python Developer | AI ML Enthusiast 🤖| Competitive Coder 🖥⌨ Fork, Star and Enjoy 🌟
+Python Developer | AI ML and DevOps Enthusiast 🤖| Competitive Coder 🖥⌨ Fork, Star and Enjoy 🌟
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
