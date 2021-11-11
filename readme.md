@@ -15,7 +15,7 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Technology. </br>
 👨‍💻  I am passionate about Backend Dev, Machine Learning, Kubernetes, DevOps & I am passionate about learning new things. </br>
-💬 Ask me about **Open Source, Hackathons, Programming, Collaborative Community & Contribution**.
+💬 Ask me about **Open Source, Hackathons, Programming, Research Paper, Collaborative Community & Contribution**.
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
