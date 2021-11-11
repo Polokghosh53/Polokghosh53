@@ -6,7 +6,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <p align="left">
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/polok_2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/polok_2020" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/polok_2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/polok_2020" height="30" width="40" /></a>
 </p>
 
 
