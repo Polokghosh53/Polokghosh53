@@ -29,6 +29,9 @@
 - [Community Classroom](https://www.commclassroom.org/) - Part of the community as a **DSA Mentor**, **backend-team** & **web-documentation** under the guidance of [**Kunal Kushwaha**](https://twitter.com/kunalstwt). Also help in upliftment of students in terms of guidance, resume review and collaboration.
 - [Omdena](https://omdena.com/) - Worked here as a **Machine Learning collaborator**. Together, all the collaborators have contributed to develop a ML project of [Leveraging Machine Learning to Predict Accomplishment Rate of Startups](https://omdena-pennsylvania-startup.herokuapp.com/) under [OmdenaAI](https://github.com/OmdenaAI).
 - [Coding Club India](https://codingclub.tech/) - Worked here as a **Campus Ambassador** and **Campus Lead**. Trained the students to develop their public speaking skills and provide public exposure and led campus ambassadors to awareness of coding and teaching them as well.
+- [GeeksForGeeks](https://www.geeksforgeeks.org/) - Part of the Computer Science portal as **Technical Content Writer Intern**. Written articles on tutorials and guidance on Programming languages.
+  - [How to turn off PHP notices](https://www.geeksforgeeks.org/how-to-turn-off-php-notices/)
+  - [Create Snake Game using turtle in Python](https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/)
 <br />
 <br />
 <br />
