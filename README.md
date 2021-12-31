@@ -26,7 +26,7 @@
 
 ### My experience
 
-- [Cuvette Tech](https://www.cuvette.tech/) - Part of the organization as a **Growth Intern**. Spreading awareness of internship opportunities from tech companies by Cuvette Tech and also collaborating with other DevRels to uplift the visibility of opportunities.
+- [Cuvette Tech](https://www.cuvette.tech/) - Worked as **Growth Intern** in the organization. Spreading awareness of internship opportunities from tech companies by Cuvette Tech and also collaborating with other DevRels to uplift the visibility of opportunities.
 - [Data on Kubernetes](https://dok.community/) - Part of DoK as a **community member** and have collaborated to take part in [DoK Students Day](https://www.youtube.com/watch?v=W04d8-P5dCQ&t=18317s) talk under the guidance of CloudNative Ambassador [**Bart Farrell**](https://twitter.com/birthmarkbart). Watch my personalized video: [What is an Etcd?](https://www.youtube.com/watch?v=Jd3UxUvXvWg&t=43s)
 - [Community Classroom](https://www.commclassroom.org/) - Part of the community as a **DSA Mentor**, **backend-team** & **web-documentation** under the guidance of [**Kunal Kushwaha**](https://twitter.com/kunalstwt). Also help in upliftment of students in terms of guidance, resume review and collaboration.
 - [Omdena](https://omdena.com/) - Worked here as a **Machine Learning collaborator**. Together, all the collaborators have contributed to develop a ML project of [Leveraging Machine Learning to Predict Accomplishment Rate of Startups](https://omdena-pennsylvania-startup.herokuapp.com/) under [OmdenaAI](https://github.com/OmdenaAI).
@@ -34,6 +34,10 @@
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) - Part of the Computer Science portal as **Technical Content Writer Intern**. Written articles on tutorials and guidance on Programming languages.
   - [How to turn off PHP notices](https://www.geeksforgeeks.org/how-to-turn-off-php-notices/)
   - [Create Snake Game using turtle in Python](https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/)
+
+## My blogs
+- [The Road to Cloud Native Hackathon ’21 Victory](https://medium.com/@polokghosh53/the-road-to-cloud-native-hackathon-21-victory-de1cc48ddf56)
+- [Adding new features to your app? Voice assistants can educate users on feature upgrades and heighten UX📱](https://bootcamp.uxdesign.cc/adding-new-features-to-your-app-b896dfcc99a7)
 <br />
 <br />
 <br />
