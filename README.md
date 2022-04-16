@@ -37,6 +37,7 @@
 ## My blogs
 - [The Road to Cloud Native Hackathon ’21 Victory](https://medium.com/@polokghosh53/the-road-to-cloud-native-hackathon-21-victory-de1cc48ddf56)
 - [Adding new features to your app? Voice assistants can educate users on feature upgrades and heighten UX📱](https://bootcamp.uxdesign.cc/adding-new-features-to-your-app-b896dfcc99a7)
+- [Tackling misconfigurations with Datree.io](https://polokdev.hashnode.dev/tackling-misconfigurations-with-datreeio)
 <br />
 <br />
 <br />
