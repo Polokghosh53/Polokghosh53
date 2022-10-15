@@ -48,6 +48,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Polokghosh53&theme=onedark)](https://github.com/Polokghosh53/github-profile-trophy)
 
+[![@polokghosh53's Holopin board](https://holopin.me/polokghosh53)](https://holopin.io/@polokghosh53)
+
 [twitter]: https://twitter.com/stompingdrake
 [linkedin]: https://linkedin.com/in/polok-ghosh
 [instagram]: https://instagram.com/thepolokofficial
