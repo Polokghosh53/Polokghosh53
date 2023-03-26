@@ -15,7 +15,7 @@
 
 ### About Me 🚀
 
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Technology. </br>
+🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science & Technology. </br>
 👨‍💻  I am passionate about Backend Dev, Machine Learning, Kubernetes, DevOps & I am passionate about learning new things. </br>
 💬 Ask me about **Open Source, Hackathons, Programming, Research Paper, Collaborative Community & Contribution**.
 
