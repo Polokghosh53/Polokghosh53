@@ -15,8 +15,8 @@
 
 ### About Me 🚀
 
-🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Computer Science & Technology. </br>
-👨‍💻  I am passionate about Backend Dev, Machine Learning, Kubernetes, DevOps & I am passionate about learning new things. </br>
+🎓 I’m an Open-Source enthusiast & recently graduated after pursuing my Bachelors in Computer Science & Technology. </br>
+👨‍💻  I am passionate about Backend Dev, Machine Learning, Kubernetes, DevOps & I am passionate about learning new things in real time workspace. </br>
 💬 Ask me about **Open Source, Hackathons, Programming, Research Paper, Collaborative Community & Contribution**.
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
